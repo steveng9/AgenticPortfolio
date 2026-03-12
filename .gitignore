@@ -10,3 +10,5 @@ build/
 .venv/
 venv/
 .claude/settings.local.json
+.claude/portfolio_context.md
+.claude/student_profile.md
